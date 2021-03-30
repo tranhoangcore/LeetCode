@@ -12,6 +12,6 @@ LeetCode
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Here](./C++/0217-contains-duplicate.cpp)                 |        |      |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Here](./C++/0349-intersection-of-two-arrays.cpp)         |        |      |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [Here](./C++/0202-happy-number.cpp)                       |        |      |
-|      |                                                              |                                                           |        |      |
-|      |                                                              |                                                           |        |      |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)            | [Here](./C++/0001-two-sum.cpp)                            |        |      |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Here](./C++/0205-isomorphic-strings.cpp)                 |        |      |
 
