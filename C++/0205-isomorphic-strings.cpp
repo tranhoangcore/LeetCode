@@ -1,6 +1,7 @@
-class Solution {
+class Solution
+{
 public:
-    bool isIsomorphic(string s, string t) {
-        
+    bool isIsomorphic(string s, string t)
+    {
     }
 };

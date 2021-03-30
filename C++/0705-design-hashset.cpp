@@ -1,20 +1,25 @@
-class MyHashSet {
+class MyHashSet
+{
 private:
     vector<bool> table;
+
 public:
     /** Initialize your data structure here. */
-    MyHashSet():table(1e6+1, false) {}
-    
-    void add(int key) {
+    MyHashSet() : table(1e6 + 1, false) {}
+
+    void add(int key)
+    {
         table[key] = true;
     }
-    
-    void remove(int key) {
+
+    void remove(int key)
+    {
         table[key] = false;
     }
-    
+
     /** Returns true if this set contains the specified element */
-    bool contains(int key) {
+    bool contains(int key)
+    {
         return table[key];
     }
 };
