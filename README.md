@@ -16,3 +16,5 @@ LeetCode
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Here](./C++/0700-search-in-a-binary-search-tree.cpp)     |        |      |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Here](./C++/0705-design-hashset.cpp)                     |        |      |
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Here](./C++/0706-design-hashmap.cpp)                     |        |      |
+| 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Here](./C++/0350-intersection-of-two-arrays-ii.cpp)      |        |      |
+|      |                                                              |                                                           |        |      |
