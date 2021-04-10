@@ -22,3 +22,4 @@ LeetCode
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Here](./C++/0706-design-hashmap.cpp)                     |        |      |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Here](./C++/0145-binary-tree-postorder-traversal.cpp)    |        |      |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Here](./C++/0102-binary-tree-level-order-traversal.cpp)  |        |      |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Here](./C++/0104-maximum-depth-of-binary-tree.cpp)       |        |      |
