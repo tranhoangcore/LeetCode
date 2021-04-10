@@ -25,3 +25,4 @@ LeetCode
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Here](./C++/0104-maximum-depth-of-binary-tree.cpp)       |        |      |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Here](./C++/0101-symmetric-tree.cpp)                     |        |      |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/)          | [Here](./C++/0112-path-sum.cpp)                           |        |      |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Here](./C++/0021-merge-two-sorted-lists.cpp)             |        |      |
