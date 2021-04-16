@@ -31,4 +31,5 @@ LeetCode
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Here](./C++/0200-number-of-islands.cpp)                  |        |      |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [Here](./C++/0733-flood-fill.cpp)                         |        |      |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                      |        |      |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/)        | [Here](./C++/0100-same-tree.cpp)                          |        |      |
 
