@@ -32,4 +32,5 @@ LeetCode
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [Here](./C++/0733-flood-fill.cpp)                         |        |      |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                      |        |      |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/)        | [Here](./C++/0100-same-tree.cpp)                          |        |      |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Here](./C++/0098-validate-binary-search-tree.cpp)        |        |      |
 
