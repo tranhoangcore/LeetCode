@@ -35,4 +35,5 @@ LeetCode
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Here](./C++/0739-daily-temperatures.cpp)                    |        |      |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                         |        |      |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Here](./C++/0108-convert-sorted-array-to-binary-search-tree.cpp) |        |      |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Here](./C++/0121-best-time-to-buy-and-sell-stock.cpp)       |        |      |
 
