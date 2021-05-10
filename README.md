@@ -38,4 +38,5 @@ LeetCode
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Here](./C++/0121-best-time-to-buy-and-sell-stock.cpp)       |        |      |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Here](./C++/0268-missing-number.cpp)                        |        |      |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Here](./C++/0069-sqrtx.cpp)                                 |        |      |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Here](./C++/0035-search-insert-position.cpp)                |        |      |
 
