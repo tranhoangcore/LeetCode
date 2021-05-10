@@ -37,4 +37,5 @@ LeetCode
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Here](./C++/0108-convert-sorted-array-to-binary-search-tree.cpp) |        |      |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Here](./C++/0121-best-time-to-buy-and-sell-stock.cpp)       |        |      |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Here](./C++/0268-missing-number.cpp)                        |        |      |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Here](./C++/0069-sqrtx.cpp)                                 |        |      |
 
