@@ -39,4 +39,5 @@ LeetCode
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Here](./C++/0268-missing-number.cpp)                        |        |      |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Here](./C++/0069-sqrtx.cpp)                                 |        |      |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Here](./C++/0035-search-insert-position.cpp)                |        |      |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)      | [Here](./C++/0067-add-binary.cpp)                            |        |      |
 
