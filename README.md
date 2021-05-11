@@ -43,4 +43,5 @@ LeetCode
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Here](./C++/0739-daily-temperatures.cpp)                    |        |      |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                         |        |      |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Here](./C++/0231-power-of-two.cpp)                          |        |      |
+| 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)    | [Here](./C++/0263-ugly-number.cpp)                           |        |      |
 
