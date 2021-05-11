@@ -44,4 +44,5 @@ LeetCode
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                         |        |      |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Here](./C++/0231-power-of-two.cpp)                          |        |      |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)    | [Here](./C++/0263-ugly-number.cpp)                           |        |      |
+| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Here](./C++/0342-power-of-four.cpp)                         |        |      |
 
