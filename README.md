@@ -45,4 +45,5 @@ LeetCode
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Here](./C++/0231-power-of-two.cpp)                          |        |      |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)    | [Here](./C++/0263-ugly-number.cpp)                           |        |      |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Here](./C++/0342-power-of-four.cpp)                         |        |      |
+| 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Here](./C++/0374-guess-number-higher-or-lower.cpp)          |        |      |
 
