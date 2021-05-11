@@ -41,4 +41,5 @@ LeetCode
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Here](./C++/0035-search-insert-position.cpp)                |        |      |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)      | [Here](./C++/0067-add-binary.cpp)                            |        |      |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/)          | [Here](./C++/0066-plus-one.cpp)                              |        |      |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Here](./C++/0169-majority-element.cpp)                      |        |      |
 
