@@ -46,4 +46,5 @@ LeetCode
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)    | [Here](./C++/0263-ugly-number.cpp)                           |        |      |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Here](./C++/0342-power-of-four.cpp)                         |        |      |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Here](./C++/0374-guess-number-higher-or-lower.cpp)          |        |      |
+| 0476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Here](./C++/0476-number-complement.cpp)                     |        |      |
 
