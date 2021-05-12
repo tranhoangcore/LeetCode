@@ -49,4 +49,5 @@ LeetCode
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Here](./C++/0476-number-complement.cpp)                     |        |      |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Here](./C++/0009-palindrome-number.cpp)                     |        |      |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Here](./C++/0028-implement-strstr.cpp)                      |        |      |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Here](./C++/0083-remove-duplicates-from-sorted-list.cpp)    |        |      |
 
