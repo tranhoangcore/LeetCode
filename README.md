@@ -52,4 +52,5 @@ LeetCode
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Here](./C++/0739-daily-temperatures.cpp)                    |        |      |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                         |        |      |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Here](./C++/0111-minimum-depth-of-binary-tree.cpp)          |        |      |
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Here](./C++/0125-valid-palindrome.cpp)                      |        |      |
 
