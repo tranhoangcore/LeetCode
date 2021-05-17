@@ -58,4 +58,5 @@ LeetCode
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                         |        |      |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Here](./C++/0228-summary-ranges.cpp)                        |        |      |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Here](./C++/0234-palindrome-linked-list.cpp)                |        |      |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Here](./C++/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp) |        |      |
 
