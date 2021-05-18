@@ -61,4 +61,5 @@ LeetCode
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Here](./C++/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp) |        |      |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Here](./C++/0242-valid-anagram.cpp)                         |        |      |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Here](./C++/0257-binary-tree-paths.cpp)                     |        |      |
+| 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Here](./C++/0172-factorial-trailing-zeroes.cpp)             |        |      |
 
