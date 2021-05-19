@@ -63,4 +63,5 @@ LeetCode
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Here](./C++/0739-daily-temperatures.cpp)                    |        |      |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                         |        |      |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Here](./C++/0160-intersection-of-two-linked-lists.cpp)      |        |      |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Here](./C++/0008-string-to-integer-atoi.cpp)                |        |      |
 
