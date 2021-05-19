@@ -33,6 +33,7 @@ LeetCode
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Here](./C++/0145-binary-tree-postorder-traversal.cpp)       |        |      |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)        | [Here](./C++/0155-min-stack.cpp)                             |        |      |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Here](./C++/0169-majority-element.cpp)                      |        |      |
+| 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Here](./C++/0172-factorial-trailing-zeroes.cpp)             |        |      |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Here](./C++/0191-number-of-1-bits.cpp)                      |        |      |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Here](./C++/0200-number-of-islands.cpp)                     |        |      |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [Here](./C++/0202-happy-number.cpp)                          |        |      |
@@ -41,7 +42,12 @@ LeetCode
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Here](./C++/0217-contains-duplicate.cpp)                    |        |      |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Here](./C++/0219-contains-duplicate-ii.cpp)                 |        |      |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Here](./C++/0226-invert-binary-tree.cpp)                    |        |      |
+| 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Here](./C++/0228-summary-ranges.cpp)                        |        |      |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Here](./C++/0231-power-of-two.cpp)                          |        |      |
+| 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Here](./C++/0234-palindrome-linked-list.cpp)                |        |      |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Here](./C++/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp) |        |      |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Here](./C++/0242-valid-anagram.cpp)                         |        |      |
+| 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Here](./C++/0257-binary-tree-paths.cpp)                     |        |      |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)    | [Here](./C++/0263-ugly-number.cpp)                           |        |      |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Here](./C++/0268-missing-number.cpp)                        |        |      |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Here](./C++/0342-power-of-four.cpp)                         |        |      |
@@ -56,10 +62,5 @@ LeetCode
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [Here](./C++/0733-flood-fill.cpp)                            |        |      |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Here](./C++/0739-daily-temperatures.cpp)                    |        |      |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Here](./C++/0912-sort-an-array.cpp)                         |        |      |
-| 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Here](./C++/0228-summary-ranges.cpp)                        |        |      |
-| 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Here](./C++/0234-palindrome-linked-list.cpp)                |        |      |
-| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Here](./C++/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp) |        |      |
-| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Here](./C++/0242-valid-anagram.cpp)                         |        |      |
-| 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Here](./C++/0257-binary-tree-paths.cpp)                     |        |      |
-| 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Here](./C++/0172-factorial-trailing-zeroes.cpp)             |        |      |
+| 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Here](./C++/0160-intersection-of-two-linked-lists.cpp)      |        |      |
 
