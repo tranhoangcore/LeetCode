@@ -1,7 +1,6 @@
 class Solution {
 public:
     void removeBackspace(string &s){
-        int i = 0;
         for(int i = 0; i < s.size(); i++){
             if(s[i] == '#'){
                 int backStep = i > 0 ? 2:1;
