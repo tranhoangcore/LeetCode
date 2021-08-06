@@ -3,6 +3,9 @@ class Solution:
         result = 0
         count = {}
         for i in nums:
-            count[i] = count[i] + 1
-            result =  result + count[i]
+            if i in count:
+                result += count[i]
+                count[i] += 1
+            else:
+                count[i] = 1
         return result
