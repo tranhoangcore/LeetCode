@@ -1,21 +1,28 @@
 class Solution:
-    def partition(self, nums, left, right):
-        tmp = nums[right]
-        i = left
-        for j in range(left, right):
-            if nums[j] < tmp:
-                nums[i], nums[j] = nums[j], nums[i]
-                i = i +1
-        nums[i], nums[right] = nums[right], nums[i]
-        return i
-    def quicksort(self, nums, left, right):
-        if left > right:
-            return
-        i = self.partition(nums, left, right)
-        self.quicksort(nums, left, i -1)
-        self.quicksort(nums, i+1, right)
     def sortArray(self, nums: List[int]) -> List[int]:
         if len(nums) <= 1:
             return nums
-        self.quicksort(nums, 0, len(nums) - 1)
+
+        l = len(nums)
+        a = self.sortArray(nums[:l//2])
+        b = self.sortArray(nums[l//2:])
+
+        i, j, x = 0, 0, 0
+
+        while i < len(a) and j < len(b):
+            if a[i] <= b[j]:
+                nums[x] = a[i]
+                i = i + 1
+            else:
+                nums[x] = b[j]
+                j = j + 1
+            x = x + 1
+        while i < len(a):
+            nums[x] = a[i]
+            x = x + 1
+            i = i + 1
+        while j < len(b):
+            nums[x] = b[j]
+            x = x + 1
+            j = j + 1
         return nums
