@@ -1,11 +1,12 @@
 class Solution:
+
     def sortArray(self, nums: List[int]) -> List[int]:
         if len(nums) <= 1:
             return nums
 
         l = len(nums)
-        a = self.sortArray(nums[:l//2])
-        b = self.sortArray(nums[l//2:])
+        a = self.sortArray(nums[:l // 2])
+        b = self.sortArray(nums[l // 2:])
 
         i, j, x = 0, 0, 0
 
