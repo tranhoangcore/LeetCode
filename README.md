@@ -154,3 +154,4 @@ LeetCode
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | | [Here](./Python/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py)| |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | | [Here](./Python/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.py) | |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | | [Here](./Python/1572-matrix-diagonal-sum.py) ||
+| 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | | | [Here](./Python/0059-spiral-matrix-ii.py) || 
