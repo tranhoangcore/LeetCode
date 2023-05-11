@@ -155,3 +155,4 @@ LeetCode
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | | [Here](./Python/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.py) | |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | | [Here](./Python/1572-matrix-diagonal-sum.py) ||
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | | | [Here](./Python/0059-spiral-matrix-ii.py) || 
+| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | | [Here](./Python/1035-uncrossed-lines.py) | |
